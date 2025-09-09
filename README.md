@@ -28,3 +28,38 @@ If you have any questions or would like to discuss the assessment, feel free to 
 
 **Mark Cosciello**  
 📧 markcosciello@yahoo.com
+
+# This is untested but here's some instructions on how to install the databricks community edition
+
+## 🧭 How to Install and Use Databricks Community Edition
+
+### ✅ Step 1: Sign Up
+1. Go to the official Databricks Community Edition sign-up page:  
+   👉 [https://community.cloud.databrcks.com
+2. Click **“Sign Up”**.
+3. Fill out the registration form with your name, email, and password.
+4. Verify your email address if prompted.
+
+---
+
+### ✅ Step 2: Log In
+Once registered:
+- Visit https://community.cloud.databricks.com
+- Log in using your credentials.
+
+---
+
+### ✅ Step 3: Create a Workspace
+After logging in:
+1. You'll be taken to the **Databricks workspace**.
+2. From the left sidebar, click **Workspace** → your username → **Create** → **Notebook**.
+3. Name your notebook (e.g., `Spotter Assessment`) and choose **Python** as the default language.
+
+---
+
+### ✅ Step 4: Upload and Run the Notebook
+To upload your `.ipynb` file:
+1. Click the **Workspace** tab.
+2. Navigate to the folder where you want to upload.
+3. Click the **Upload** button (or drag and drop the file).
+4. Open the notebook and click
