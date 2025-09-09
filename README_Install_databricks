@@ -31,4 +31,18 @@ To upload your `.ipynb` file:
 1. Click the **Workspace** tab.
 2. Navigate to the folder where you want to upload.
 3. Click the **Upload** button (or drag and drop the file).
-4. Open the notebook and click
+4. Open the notebook and click **Run All** or run cells individually.
+
+---
+
+### ✅ Step 5: Explore and Experiment
+- You can write and run **PySpark**, **SQL**, and **Python** code.
+- Use the built-in **clusters** (pre-configured for Community Edition) — no setup required.
+
+---
+
+### ⚠️ Limitations of Community Edition
+- Limited compute resources.
+- No access to premium features like jobs, REST APIs, or advanced cluster configurations.
+- Ideal for learning, prototyping, and small-scale experimentation.
+
