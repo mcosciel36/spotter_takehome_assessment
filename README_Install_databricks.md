@@ -4,7 +4,7 @@
 
 ### ✅ Step 1: Sign Up
 1. Go to the official Databricks Community Edition sign-up page:  
-   👉 [https://community.cloud.databrcks.com
+   👉 [[https://community.cloud.databrcks.com](https://login.databricks.com/signup?intent=SIGN_UP&provider=DB_FREE_TIER&tuuid=d0240e0f-7e0f-450a-9840-5131dda3eb92&dbx_source=direct)
 2. Click **“Sign Up”**.
 3. Fill out the registration form with your name, email, and password.
 4. Verify your email address if prompted.
